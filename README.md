@@ -1,6 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React Todo App with useContext 
+how to run:
+install 'npm i'
+run - 'npm run dev'
 
 Currently, two official plugins are available:
 
